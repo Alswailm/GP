@@ -42,10 +42,10 @@ The dataset contains features relevant to villa pricing, including:
 
 ## Computing Infrastructure
 
-- **Operating System:** Windows 10 Pro, Version 21H1
+- **Operating System:** Windows 11 Home, Version 23H2
 - **Hardware:**
-  - **CPU:** Intel Core i7-10700K
-  - **RAM:** 16 GB DDR4
-  - **GPU:** NVIDIA GeForce RTX 3080 (if applicable)
+  - **CPU:** Intel(R) Core(TM) i7-1165G7
+  - **RAM:** 16 GB 
+  - **GPU:** Intel iRISxe 
   - **Storage:** 1 TB SSD
 
