@@ -18,7 +18,7 @@ The experimental design involved selecting and comparing several regression mode
 ## Code
 
 ### Source code
-The source code used in this study is available on GitHub. You can access it through the following link: [SourceCode](https://github.com/yourusername/your-repository).
+The source code used in this study is available on GitHub. You can access it through the following link: [SourceCode](https://github.com/Alswailm/GP/blob/main/Graduadion%20Project.ipynb).
 
 ## Data Availability
 
